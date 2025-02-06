@@ -36,7 +36,7 @@ export default function Hero() {
           }}
           className="text-5xl md:text-7xl font-bold mb-4"
         >
-          Energía Limpia para un Futuro Sostenible
+          Clean Energy for a Brighter Tomorrow
         </motion.h1>
 
         <motion.p
@@ -46,8 +46,7 @@ export default function Hero() {
           }}
           className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto"
         >
-          Impulsando el mundo de mañana con soluciones innovadoras en energías
-          renovables.
+          Join the movement towards a greener, more sustainable world.
         </motion.p>
 
         <motion.button
@@ -63,7 +62,7 @@ export default function Hero() {
           }
           aria-label="Desplázate a la sección de servicios"
         >
-          Comenzar
+          Start Your Journey
         </motion.button>
       </motion.div>
     </section>
